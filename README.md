@@ -1,62 +1,73 @@
-# Maincraft Technology – Internship Work
+# Maincraft Technology – Internship Tasks
 
-This repository contains all the tasks and projects completed by me during my internship at **Maincraft Technology**.  
-Each task is organized in a separate folder and represents the work assigned during different phases of the internship.
-
-The objective of this internship is to gain hands-on experience in data analysis, problem-solving, and working with real-world datasets using Python.
-
+This repository contains all the tasks completed by me during my internship at **Maincraft Technology**.  
+Each task is organized in a separate folder and documents the work, learning, and outcomes of the internship.
 
 ---
 
-## 🧠 Task Overview
+## 📂 Tasks
 
 ### 🔹 Task 1: Student Performance Analysis
-- Analyzed student performance using real educational datasets.
-- Performed data loading, cleaning, exploratory analysis, and visualization.
-- Studied the impact of factors such as study time and gender on final grades.
-- Merged Math and Portuguese datasets using the exact logic provided in the reference R file.
-- Identified **382 common students**, confirming correctness of the implementation.
 
-(Additional tasks will be added in separate folders as the internship progresses.)
+**Overview**  
+This task focuses on analyzing student performance using real educational datasets. The goal was to understand how different factors such as study time, gender, and background affect students’ final grades.
 
----
+**Technologies Used**  
+Python, Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook
 
-## 🛠️ Technologies Used
+**Work Done**  
+- Loaded and explored the Math and Portuguese student datasets  
+- Performed data cleaning and validation  
+- Analyzed student performance and influencing factors  
+- Created visualizations to represent insights  
+- Merged both datasets using the exact logic provided in the reference R file  
+- Identified 382 students common to both datasets  
 
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Jupyter Notebook
+**Learning Outcomes**  
+- Learned how to work with real-world datasets  
+- Improved skills in data cleaning and exploratory data analysis  
+- Understood how to validate results using a reference implementation  
+- Gained experience in visualizing data for better interpretation  
 
----
+**Notes**  
+This task was completed following standard data science practices and reflects internship-level analytical work.
 
-## 🎯 Learning Outcomes
-
-- Gained experience in handling real-world datasets.
-- Learned how to clean, analyze, and visualize data effectively.
-- Understood how to validate results using reference implementations.
-- Improved problem-solving and analytical thinking skills.
-- Learned to organize and document work using GitHub.
+**Author**  
+Anmol Patel
 
 ---
 
-## 📌 Notes
+### 🔹 Task 2: (To be added)
 
-- Each task folder is self-contained and includes all necessary files.
-- Code is written with clarity and proper comments for easy understanding.
-- This repository reflects my learning journey during the internship.
+**Overview**  
+This task will include future work assigned during the internship.
+
+**Technologies Used**  
+To be updated
+
+**Work Done**  
+To be updated
+
+**Learning Outcomes**  
+To be updated
+
+**Notes**  
+To be updated
+
+**Author**  
+Anmol Patel
+
+---
+
+## 📌 General Notes
+
+- Each task folder is self-contained and includes all relevant files.
+- Code is written with clarity and proper comments.
+- This repository represents my learning and growth during the internship.
 
 ---
 
 ## 👤 Author
 
 **Anmol Patel**  
-Intern – Maincraft Technology  
-
----
-
-## 📄 License
-
-This repository is created for educational and internship purposes only.
+Intern – Maincraft Technology
