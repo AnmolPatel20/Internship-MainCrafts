@@ -32,30 +32,32 @@ Python, Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook
 **Notes**  
 This task was completed following standard data science practices and reflects internship-level analytical work.
 
-**Author**  
-Anmol Patel
-
 ---
 
-### 🔹 Task 2: (To be added)
+### ♦ Task 2: Titanic Survival Analysis
 
 **Overview**  
-This task will include future work assigned during the internship.
+This task focuses on analyzing the Titanic dataset to understand survival patterns among passengers. The goal was to analyze how factors such as gender, passenger class, and age affected survival chances.
 
 **Technologies Used**  
-To be updated
+Python, Pandas, Matplotlib, Seaborn, Jupyter Notebook
 
-**Work Done**  
-To be updated
+**Work Done**
+- Loaded and explored the Titanic dataset  
+- Performed data cleaning by handling irrelevant columns and missing values  
+- Conducted exploratory data analysis (EDA) on passenger survival  
+- Analyzed survival rates based on gender, passenger class, and age groups  
+- Created bar charts and histograms to visualize survival patterns  
+- Used numerical analysis along with visualizations to support conclusions  
 
-**Learning Outcomes**  
-To be updated
+**Learning Outcomes**
+- Learned how to handle real-world messy datasets  
+- Improved skills in exploratory data analysis and data visualization  
+- Understood how to answer business questions using data  
+- Gained experience in interpreting numerical and graphical results  
 
 **Notes**  
-To be updated
-
-**Author**  
-Anmol Patel
+This task was completed following standard data science and EDA practices and reflects internship-level analytical work.
 
 ---
 
